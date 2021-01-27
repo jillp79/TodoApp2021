@@ -1,3 +1,34 @@
+## Jill Plansky
+
+## Overview
+
+Simple "To do list" - This app allows a user to add a task, remove a task and review existing tasks. The user can view all todos, active todos or complete todos.
+
+## Technologies used
+
+React, HTML, CSS, SCSS, Ant Design, Tailwind and Javascript
+
+## Ideas for future improvement
+
+Better styling of the app, make the UI a bit more visually appealing
+Add the ability to store and retrieve multiple lists, so the user can make more than one and reference them
+Set time limit goals for completing tasks. So if the user doesn't complete in the time allotted a reminder would pop up.
+
+## User Stories
+
+As a busy rabbitry owner, I want to add items to a list as they come up so I can reference the info later.
+
+As a rabbitry worker, I want to add items to a list and be able to cross them off when I've completed.
+
+As a rabbitry customer, I want to add, remove and view completed tasks so I can use it as a check list for buying a rabbit.
+
+## Presentational & Container Components
+Added Ant Design tabs for todo list - Active, All, Completed.
+
+Added Ant Design contact form
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
